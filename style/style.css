@@ -6,6 +6,12 @@
     scroll-behavior: smooth;
 }
 
+.bouh a{
+    font-family: 'GFS Neohellenic', sans-serif;
+    list-style: none;
+    color: #FF5733;
+}
+
 html{
     background-color: #333A48;
     font-size: 100%;
